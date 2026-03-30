@@ -71,9 +71,6 @@ Running Locally
 2. Update application properties
 3. Run using Maven
 
-Backend runs on: [http://localhost:8080](http://localhost:8080)
-
-
 Configuration
 
 | Property | Description         |
